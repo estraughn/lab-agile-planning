@@ -1,7 +1,7 @@
 # Agile Planning Lab
 
 # Objective
-Create a kanban board to demonstrate a model of agile planning.
+Create a kanban board and user stories to prioritize the product backlog and demonstrate the process of agile planning. 
 
 # Tools Used
 - Zenhub
