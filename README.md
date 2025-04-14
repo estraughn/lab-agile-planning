@@ -48,6 +48,16 @@ Create a kanban board and sample issues to demonstrate the process of agile plan
 13. I then went over to Zenhub to update my Kanban board there with the same estimates and move the issues into the sprint backlog pipeline.
     ![Screenshot 2025-04-13 142251](https://github.com/user-attachments/assets/17564439-035a-4e7a-b14f-51145520df19)
 
+14. My next move was then to take the first task in the sprint backlog assign it to myself and move it to the in process pipeline to allow the rest of the team to know I was working on this issue.
+    ![Screenshot 2025-04-14 164912](https://github.com/user-attachments/assets/0ed0e9c6-090c-494a-afb6-9bad1d552267)
+
+15. Once the code is updated for the issue this is where I would have input a pull request to merge my code with the main branch and have it reviewed by the team. While the review process is underway I would assign myself another issue I had the skills to handle and begin work on that.
+    ![Screenshot 2025-04-14 165336](https://github.com/user-attachments/assets/d1a3e035-5f93-4d51-8d68-f14d42f27cc6)
+
+16. Fianlly once the review is complete on the issue submitted the last step was to move the issue to the done pipeline to update the team, srum master, and product owner that this task is complete.
+    ![Screenshot 2025-04-14 165808](https://github.com/user-attachments/assets/b8e022ff-5109-4de6-b7cb-33ffc9694b1a)
+
+
 
 
 
