@@ -51,7 +51,7 @@ Create a kanban board and sample issues to demonstrate the process of agile deve
 14. My next move was then to take the first task in the sprint backlog assign it to myself and move it to the in process pipeline to allow the rest of the team to know I was working on this issue.
     ![Screenshot 2025-04-14 164912](https://github.com/user-attachments/assets/0ed0e9c6-090c-494a-afb6-9bad1d552267)
 
-15. Once the code is updated for the issue this is where I would have input a pull request to merge my code with the main branch and have it reviewed by the team. While the review process is underway I would assign myself another issue I had the skills to handle and begin work on that.
+15. Once the code is updated for the issue this is where I would have input a pull request to merge my code with the main branch and have it reviewed by the team. While the review process is underway I would assign myself another issue to handle and begin work on that.
     ![Screenshot 2025-04-14 165336](https://github.com/user-attachments/assets/d1a3e035-5f93-4d51-8d68-f14d42f27cc6)
 
 16. Fianlly once the review is complete on the issue submitted the last step was to move the issue to the done pipeline to update the team, srum master, and product owner that this task is complete.
