@@ -1,7 +1,7 @@
 # Agile Planning Lab
 
 # Objective
-Create a kanban board and sample issues to demonstrate agile development and the scrum process. 
+Create a Kanban board and sample issues to demonstrate agile development and the scrum process. 
 
 # Tools Used
 - Zenhub
